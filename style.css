@@ -17,7 +17,7 @@ html,
 body {
   width: 100%;
   min-height: 100%;
-  overflow: visible;
+  overflow: scroll;
   display: flex;
   flex-direction: column;
   align-items: center;
