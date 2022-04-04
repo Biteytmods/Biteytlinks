@@ -42,6 +42,7 @@ body {
   font-size: 3rem;
   text-decoration: none;
   margin: 0.5em 0em 1em 0em;
+  text-align: center;
   color: white;
   text-shadow: var(--text-shadow);
   font-family: "Montserrat", sans-serif;
