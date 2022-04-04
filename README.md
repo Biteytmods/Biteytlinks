@@ -2,4 +2,4 @@
 
 > Here's the [website](https://biteytmods.github.io/Biteytlinks/)
 
-### Website With its special gradient changing animations.
+### Website with gradient changing animations.
