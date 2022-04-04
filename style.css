@@ -80,12 +80,6 @@ body {
   transform: scale(1.1);
 }
 
-@keyframes jumpInfinite {
-  0% {
-    margin-top: 0;
-  }
-  50% {
-
 @media screen and (max-width: 700px) {
   .link-items {
     width: 10em;
