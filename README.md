@@ -1,4 +1,4 @@
-# Open-source linktree like website, BiteYt
+# Simple linktree like website, BiteYt
 
 > Here's the [website](https://biteytmods.github.io/Biteytlinks/)
 
